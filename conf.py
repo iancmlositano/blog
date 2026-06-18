@@ -23,7 +23,7 @@ blog_title = "thoughtsandmachinations Blog"
 
 # Base URL for the website, required for generating feeds.
 # e.g. blog_baseurl = "http://example.com/"
-blog_baseurl = "blog.ianlositano.com"
+blog_baseurl = "https://blog.ianlositano.com"
 
 # Choose to archive only post titles. Archiving only titles can speed
 # up project building.

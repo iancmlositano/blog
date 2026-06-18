@@ -6,7 +6,7 @@
 Welcome to Ian Carlo M. Lositano's Blog!
 ===================================================
 
-Hello World! Find more about me here: :ref:`about`
+Hi! Find more about me here: :ref:`about`
 
 
 Here is a list of most recent posts:

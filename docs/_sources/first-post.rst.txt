@@ -1,11 +1,11 @@
 
-.. thoughtsandmachinations post example, created by `ablog start` on Jun 16, 2026.
+.. thoughtsandmachinations post example, created by `ablog start` on Jun 20, 2026.
 
-.. post:: Jun 16, 2026
-   :tags: atag
+.. post:: Jun 20, 2026
+   :tags: thoughts, machinations
    :author: Ian Carlo M. Lositano
 
-First Post
+Thoughts and Machinations
 ==========
 
 World, hello again! This very first paragraph of the post will be used

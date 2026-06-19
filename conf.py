@@ -193,7 +193,7 @@ needs_sphinx = '1.2'
 extensions = [
     # ... your other extensions
     'sphinx.ext.githubpages',
-]   'sphinx.ext.extlinks',
+    'sphinx.ext.extlinks',
     'sphinx.ext.intersphinx',
     'sphinx.ext.todo',
     'alabaster',
